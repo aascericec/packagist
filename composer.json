@@ -6,6 +6,9 @@
             "Ecommistry\\Packagist\\": "src/"
         }
     },
+    "require": {
+        "mageplaza/module-cron-schedule": "^4.0"
+    },
     "minimum-stability": "dev",
     "prefer-stable": true
 }

@@ -1,0 +1,11 @@
+{
+    "name": "ecommistry/packagist",
+    "description": "composer private package",
+    "autoload": {
+        "psr-4": {
+            "Ecommistry\\Packagist\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
